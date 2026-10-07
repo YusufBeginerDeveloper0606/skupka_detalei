@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://radiodetali-pavlodar.kz/sitemap.xml
+
